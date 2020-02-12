@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDefButton">#FFFFFF</color>
+    <color name="colorDefText">#3F51B5</color>
+    <color name="colorBtnText">#3F51B5</color>
+
+    <color name="colorZero">#E8A0F5</color>
+    <color name="colorOne">#DE3EFA</color>
+    <color name="colorTwo">#BD2DD8</color>
+    <color name="ColorThree">#A123B6</color>
+    <color name="ColorFour">#8F27A2</color>
+    <color name="ColorFive">#851F96</color>
+    <color name="ColorSix">#671C74</color>
+    <color name="ColorSeven">#4E0D5A</color>
+    <color name="ColorEight">#390A42</color>
+    <color name="ColorNine">#300A36</color>
+    <color name="ColorThen">#1F0424</color>
+
+    <array name="colors">
+        <item>@color/colorZero</item>
+        <item>@color/colorOne</item>
+        <item>@color/colorTwo</item>
+        <item>@color/ColorThree</item>
+        <item>@color/ColorFour</item>
+        <item>@color/ColorFive</item>
+        <item>@color/ColorSix</item>
+        <item>@color/ColorSeven</item>
+        <item>@color/ColorEight</item>
+        <item>@color/ColorNine</item>
+        <item>@color/ColorThen</item>
+    </array>
+</resources>
